@@ -1,0 +1,6 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  script: |
+    docker build -t europe-west1-docker.pkg.dev/civil-victory-381915/docker-server/rss-to-chat:0.8 .
+images:
+- 'europe-west1-docker.pkg.dev/civil-victory-381915/docker-server/rss-to-chat:0.8'

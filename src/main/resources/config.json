@@ -1,0 +1,87 @@
+[
+  {
+    "url": "https://cloud.google.com/feeds/gke-main-release-notes.xml",
+    "product": "GKE",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/google_kubernetes_engine/google_kubernetes_engine.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/run-release-notes.xml",
+    "product": "CloudRun",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_run/cloud_run.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/clouddeploy-release-notes.xml",
+    "product": "CloudDeploy",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_deploy/cloud_deploy.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/functions-release-notes.xml",
+    "product": "CloudFunction",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_functions/cloud_functions.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/stackdriver-release-notes.xml",
+    "product": "CloudOperation",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_ops/cloud_ops.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/cloudbuild-release-notes.xml",
+    "product": "CloudBuild",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_build/cloud_build.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/duetai-release-notes.xml",
+    "product": "DuetAI",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/ai_platform_unified/ai_platform_unified.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/shell-release-notes.xml",
+    "product": "Shell",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_shell/cloud_shell.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/domains-release-notes.xml",
+    "product": "Domains",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_domains/cloud_domains.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/cloud-console-release-notes.xml",
+    "product": "Console",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_code/cloud_code.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/endpoints-release-notes.xml",
+    "product": "Endpoints",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_endpoints/cloud_endpoints.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/terraform-release-notes.xml",
+    "product": "Terraform",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_build/cloud_build.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/cloudbuildpacks-release-notes.xml",
+    "product": "BuildPacks",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_build/cloud_build.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/cloud-tasks-release-notes.xml",
+    "product": "CloudTasks",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_build/cloud_build.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/application-integration-release-notes.xml",
+    "product": "ApplicationIntegration",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_build/cloud_build.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/cloudscheduler-release-notes.xml",
+    "product": "CloudScheduler",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_scheduler/cloud_scheduler.png"
+  },
+  {
+    "url": "https://cloud.google.com/feeds/dns-release-notes.xml",
+    "product": "DNS",
+    "iconURL": "https://storage.googleapis.com/icon-rss-chat/google-cloud-icons/cloud_dns/cloud_dns.png"
+  }
+]
